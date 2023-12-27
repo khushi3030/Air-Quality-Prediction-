@@ -7,7 +7,7 @@ The goal of this project is to predict Air Quality Index (AQI ) form features as
 DATASET
 Dataset used can be downoladed from here https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
-WHAT I HAD DONE
+Process
 
 Step 1: Data Exploration
 Step 2: Data Cleaning
